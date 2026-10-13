@@ -1,0 +1,8 @@
+{
+  "name": "ZimMech JobRadar & WhatsApp Alerts",
+  "description": "Monitors local Zimbabwean publications for mechanical engineering vacancies, delivers automated WhatsApp phone alerts, and drafts one-click job application packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
